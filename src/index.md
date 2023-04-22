@@ -1,2 +1,1 @@
-hosjjdk mundo . soy un futuro programador
-cambio de la nueva rama 
+hosjjdk mundo . soy un futuro programa                    
