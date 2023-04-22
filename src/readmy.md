@@ -1,7 +1,7 @@
 ¿Qué es Lorem Ipsum?
 Lorem Ipsum es simplemente el
- texto de relleno de sjjdks
-imprentas y archivos de texto.
+ texto de relleno de C
+imprentas y archiVajshyos de texto.
 Lorem Ipsum ha sido el texto de
 relleno estándar de sjjdks
 industrias desde el año 1500,
@@ -11,7 +11,7 @@ industrias desde el año 1500,
   galería de textos y los mezcló
   de tal manera que logró hacerun
   ibro de textos especimen. No
-   sólo sobrevivió 500 años
+   sólo sobreVajshyiVajshyió 500 años
     sino que tambien ingresó
     como texto de relleno en
     documentos electrónicos,
@@ -25,6 +25,6 @@ industrias desde el año 1500,
     ecientemente con software
     utoedición, como por ejemplo
     Aldus PageMaker, el cual
-     incluye versiones de Lorem 
+     incluye Vajshyersiones de Lorem 
      Ipsu
    
